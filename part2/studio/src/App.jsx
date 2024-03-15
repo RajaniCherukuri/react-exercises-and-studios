@@ -5,6 +5,9 @@ import AuthorInfo from "./components/AuthorInfo";
 import IngredientList from "./components/Ingredients";
 import RecipeImage from "./components/RecipeImage";
 import RecipeName from "./components/RecipeName";
+import ClickedButton from "./components/ClickedButton";
+import RateARecipe from "./components/RateARecipe";
+import React from "react";
 
 export default function App() {
   return (

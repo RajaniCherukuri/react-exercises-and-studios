@@ -1,6 +1,6 @@
 import styles from './Description.module.css;
 import React from 'react';
-let authorLink = ""
+let authorLink = "npm"
 let authorName = ""
 let authorPhoto = ""
 

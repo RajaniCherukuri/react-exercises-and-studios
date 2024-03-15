@@ -1,5 +1,10 @@
 function AuthorInfo() {
-   return;
+  const recipeAuthor = <recipedata className="map">(data)=></recipedata>
+  <div key = {data.name}></div>
+  const recipeAuthorImage = <recipedata className="map">(data)=></recipedata>
+  <div key = {data.name}>
+    img src = {data.authorImage} alt = {data.author} className = "author Image"
+  </div>
  }
  
  export default AuthorInfo;
